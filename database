@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "2224444",
+    "publicId": "2224444",
+    "idUser": "2224444",
+    "username": "ynlinix",
+    "name": "muhamad ibnu al qoyyim",
+    "nama": "muhamad ibnu al qoyyim",
+    "qr": "ABSENSI-7efbbf23-f2d6-40a8-b7df-6201dc35783c",
+    "qrCode": "ABSENSI-7efbbf23-f2d6-40a8-b7df-6201dc35783c",
+    "email": "ibnuuyungjunde@gmail.com",
+    "kelas": "VII E",
+    "jabatan": "Siswa",
+    "firebaseUid": "lYphUGcQAchIGKy7x0nHNlylpWd2",
+    "passwordHash": "scrypt$062e091e8d8769c6cac41b4ec2101f3b$7555b511eac89e3ede524e29fc138304d48a9dca672f214655178ec76bf929a0ca4f98c541ede2fde833cb229fea328c5fa245d9431555a858ad83255b1dc409"
+  }
+]
